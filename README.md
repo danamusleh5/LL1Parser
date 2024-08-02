@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>LL(1) Parser</title>
-</head>
 <body>
 
 <h1>LL(1) Parser</h1>
